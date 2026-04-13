@@ -72,3 +72,4 @@ Because the app is a subdirectory of a monorepo, Coolify needs to know where to 
 - Light/dark theme (preference persisted)
 - Responsive grid layout
 - Sample bookmarks on first load
+
